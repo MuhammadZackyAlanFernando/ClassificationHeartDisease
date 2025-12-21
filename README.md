@@ -13,7 +13,7 @@ Proyek klasifikasi penyakit jantung menggunakan Machine Learning di Google Colab
 
 ## 📈 Hasil Model
 
-<img width="660" height="223" alt="image" src="https://github.com/user-attachments/assets/25cc16f4-2b5b-42d9-9e81-0da989eb44a9" />
+<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/25cc16f4-2b5b-42d9-9e81-0da989eb44a9" />
 
 
 **Model Terbaik**: [Linear Regression] dengan akurasi rata-rata 84.79% setelah cross validation
@@ -36,7 +36,6 @@ Proyek klasifikasi penyakit jantung menggunakan Machine Learning di Google Colab
 6. **Hyperparameter Tuning**
 7. **Model Evaluation**
 10. **Feature Importance**
-11. **Save Model**
 
 ## 🔗 Link Penting
 - [Notebook Colab](https://colab.research.google.com/drive/1r6trnun1NvDCtP76ZrZbe4HyYEBANDTh?usp=sharing)
