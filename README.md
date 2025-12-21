@@ -27,7 +27,7 @@ Proyek klasifikasi penyakit jantung menggunakan Machine Learning di Google Colab
 
 ## 📁 Struktur Notebook
 
-### Notebook Utama (Heart_Disease_Classification_Full.ipynb)
+### Notebook Utama (classification_project.ipynb)
 1. **Setup & Import Libraries**
 2. **Load Data**
 3. **Exploratory Data Analysis (EDA)**
@@ -40,14 +40,14 @@ Proyek klasifikasi penyakit jantung menggunakan Machine Learning di Google Colab
 
 ## 🔗 Link Penting
 - [Notebook Colab](https://colab.research.google.com/drive/1r6trnun1NvDCtP76ZrZbe4HyYEBANDTh?usp=sharing)
-- [Dataset Kaggle]([link-dataset](https://www.google.com/url?q=https%3A%2F%2Fwww.kaggle.com%2Fdatasets%2Fsumaiyatasmeem%2Fheart-disease-classification-dataset))
+- [Dataset Kaggle](https://www.google.com/url?q=https%3A%2F%2Fwww.kaggle.com%2Fdatasets%2Fsumaiyatasmeem%2Fheart-disease-classification-dataset)
 - [Dataset UCI](https://www.google.com/url?q=https%3A%2F%2Farchive.ics.uci.edu%2Fml%2Fdatasets%2Fheart%2BDisease)
 
 
 ## 👤 Author
 **[Nama Anda]**
 - GitHub: [@MuhammadZackyAlanFernando](https://github.com/MuhammadZackyAlanFernando)
-- LinkedIn: [Profile](https://linkedin.com/in/username)
+- LinkedIn: [@Muhammad Zacky Alan Fernando](https://linkedin.com/in/muhammad-zacky-alan-fernando)
 
 ## 📝 Lisensi
 MIT License
