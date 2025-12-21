@@ -8,8 +8,21 @@ Proyek klasifikasi penyakit jantung menggunakan Machine Learning di Google Colab
 - **Fitur**: Age, Sex, Trestbps, oldpeak, thal, cp, dll
 - **Target**: 0 = Tidak ada penyakit, 1 = Ada penyakit
 
-## Buka di Google Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1r6trnun1NvDCtP76ZrZbe4HyYEBANDTh?usp=sharing)
+## 🚀 Cara Menggunakan
+
+### 1. Buka di Google Colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/username/heart-disease-classification/blob/main/notebooks/Heart_Disease_Classification_Full.ipynb)
+
+### 2. Clone Repository
+```python
+!git clone https://github.com/username/heart-disease-classification.git
+%cd heart-disease-classification
+```
+
+### 3. Install Dependencies
+```python
+!pip install -r requirements.txt
+```
 
 ## 📈 Hasil Model
 
