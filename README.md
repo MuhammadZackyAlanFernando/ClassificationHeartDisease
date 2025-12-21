@@ -10,7 +10,7 @@ Proyek klasifikasi penyakit jantung menggunakan Machine Learning di Google Colab
 ## 🚀 Cara Menggunakan
 
 ### 1. Buka di Google Colab
-[![Open In Colab]([[https://colab.research.google.com/assets/colab-badge.svg)] (https://colab.research.google.com/drive/1r6trnun1NvDCtP76ZrZbe4HyYEBANDTh?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)] (https://colab.research.google.com/drive/1r6trnun1NvDCtP76ZrZbe4HyYEBANDTh?usp=sharing)
 
 ### 2. Clone Repository
 ```python
